@@ -13,6 +13,10 @@ namespace RealSense.Tools.IVCam2.Validation.Main
     {
         void TurnTesterLightOff(Logger logger);
         void TurnTesterLightOn(Logger logger);
+        
+
+
+
 
         void SetStartupLights();
         void SetFailureLights();
